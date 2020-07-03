@@ -1,0 +1,50 @@
+#shapka {
+	background-color: #ffffcc;
+	width: 70%;
+	height: 200%;
+	top: 0px;
+	left: 15%;
+	margin-left: 15%;
+	border-radius: 15px;
+}
+
+#shapka img{
+	position: absolute;
+	width: 69.2%;
+	height: 350px;
+}
+
+.button {
+	background-color: white;
+	height: 50px;
+	text-transform: uppercase;
+	line-height: 50px;
+	text-style: none;
+	height: 50px;
+	padding: 15px;
+	margin-left: 20px;
+	border-radius: 10px;
+	color: #d34d43;
+	font-weight: bold;
+}
+
+.button:hover {
+	background: #d34d43;
+	border: 3px solid #fff;
+	padding: 12px;
+	color: #fff;
+	box-shadow: 3px 5px 5px 2px #fff;
+	transition: 0.4s ease-out;
+}
+
+#menu {
+	background: #9fe6e2;
+	width: 100%;
+	height: 50px;
+	border-radius: 15px;
+}
+
+#menu:hover {
+	background: #9fe7ce;
+	transition: 0.5s ease-in-out;
+}
